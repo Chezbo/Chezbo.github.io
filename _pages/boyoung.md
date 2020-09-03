@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Boyoung
 permalink: /boyoung/
 image: 01.jpg
 ---
